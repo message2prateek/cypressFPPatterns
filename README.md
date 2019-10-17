@@ -467,5 +467,3 @@ it('Admin is taken to Admin Dashboard on valid login', ()=> {
 ```
 
 Hopefully you can see that preferring Loosely Coupled steps leads to us writing less lines of code with reduced complexity.
-
-> :bulb: ASS tests in NIB when through a big refactor 2 years back to not have methods return Page Objects.
